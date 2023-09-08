@@ -1,0 +1,34 @@
+.card {
+  background-color: rgb(132, 84, 148);
+  margin: 5px;
+  width: 200px;
+  position: relative;
+  border-radius: 0.5cm;
+}
+
+.card- {
+  width: 200px;
+  height: 200px;
+  border-radius: 20cm;  
+}
+
+.button {
+  border-radius: 20cm;
+  background-color: brown;
+}
+
+.name{
+  background-color: rgba(246, 231, 18, 0.96);
+  border-radius: 15cm;
+  font-size: 25px;
+  font-family:'Times New Roman', Times, serif;
+}
+
+.text{
+    font-size: 12.5px;
+}
+
+.click{
+  border-radius: 10px;
+  background-color: rgb(205, 34, 34);
+}

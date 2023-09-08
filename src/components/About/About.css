@@ -1,0 +1,21 @@
+.titulo-about {
+  margin: 70px;
+  color: rgb(101, 52, 147);
+  background-color: rgb(159, 122, 177);
+  border-radius: 15px;
+  font-family:'Courier New', Courier, monospace;
+  font-size: larger;
+  box-shadow: 0 0 14px black
+}
+
+.contenedor-about {
+  background-color: rgb(150, 136, 197);
+  border-radius: 50px;
+  color: rgba(0, 0, 0, 0.982);
+  font-family:'Courier New', Courier, monospace;
+  box-shadow: 0 0 17px black;
+}
+
+.descripcion-about {
+  font-size: larger;
+}
