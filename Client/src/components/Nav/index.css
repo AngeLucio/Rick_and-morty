@@ -1,0 +1,14 @@
+.buttonLinks {
+ 
+  color: rgb(45, 52, 48);
+  border-radius: 20cm;
+  border-color: rgb(0, 0, 0);
+  font-size: large;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  
+  
+}
+.buttonLinks:hover {
+  background-color: #a5acb4; /* Cambio de color cuando el mouse está sobre el botón */
+  transform: scale(1.05);
+}

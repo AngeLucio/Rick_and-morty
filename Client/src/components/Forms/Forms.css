@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    margin: 150px auto;
+    margin-left: 10px auto;
+    background-color:rgb(39, 20, 20);
+    border-radius: 15px;
+    box-shadow: 0 0 17px black;
+}
+
+.image{
+    height: 220px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.nameInput{
+
+    font-size: medium;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgba(184, 163, 163, 0.88);
+    margin: 5px
+}
+
+.input{
+    margin: 8px;
+    border-color: rgb(255, 255, 255);
+    background-color: rgba(137, 43, 226, 0.256);
+    border-radius: 5px;
+}
+
+.errors{
+    color: brown;
+}
+
+.submit{
+    background-color: rgb(194, 198, 197);
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px black;
+    margin-bottom: 10px;
+}
+.submit:hover {
+    background-color: rgb(142, 122, 122);
+}

@@ -1,0 +1,16 @@
+.detail-id {
+  background-color: rgb(154, 153, 98);
+  box-shadow: 0 0 17px black;
+  border-radius: 60px;
+}
+
+.imagen-card {
+  box-shadow: 0 0 17px black;
+  border-radius: 60px;
+}
+
+.detail-card {
+  background-color: rgb(43, 50, 19);
+  border-radius: 60px;
+  box-shadow: 0 0 17px black;
+}
